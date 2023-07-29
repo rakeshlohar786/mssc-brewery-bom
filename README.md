@@ -1,1 +1,1 @@
-# mssc-brewery-bom
+# mssc-brewery-client
